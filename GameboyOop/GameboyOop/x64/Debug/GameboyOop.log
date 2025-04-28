@@ -1,0 +1,68 @@
+﻿  Game.cpp
+  Gameboy.cpp
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\WordleGame.h(219,35): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboy.cpp')
+  
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\Gameboy.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameboyOop.cpp
+  menu.cpp
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\menu.cpp(11,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  s.cpp
+  SnakeGame.cpp
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(36,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(36,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(102,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(104,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(104,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(108,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(110,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(110,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(118,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(118,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(122,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(122,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(126,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(126,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(132,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\SnakeGame.cpp(132,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  HangmanGame.cpp
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(34,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(34,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,87): warning C4244:         with
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,87): warning C4244:         [
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,87): warning C4244:             T=int
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,87): warning C4244:         ]
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,87): warning C4244:         and
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,87): warning C4244:         [
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,87): warning C4244:             T=float
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,87): warning C4244:         ]
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,75): warning C4244:         with
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,75): warning C4244:         [
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,75): warning C4244:             T=int
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,75): warning C4244:         ]
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,75): warning C4244:         and
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,75): warning C4244:         [
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,75): warning C4244:             T=float
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(132,75): warning C4244:         ]
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,75): warning C4244:         with
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,75): warning C4244:         [
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,75): warning C4244:             T=int
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,75): warning C4244:         ]
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,75): warning C4244:         and
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,75): warning C4244:         [
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,75): warning C4244:             T=float
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,75): warning C4244:         ]
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,63): warning C4244:         with
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,63): warning C4244:         [
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,63): warning C4244:             T=int
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,63): warning C4244:         ]
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,63): warning C4244:         and
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,63): warning C4244:         [
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,63): warning C4244:             T=float
+C:\Users\hkals\source\repos\GameboyOop\GameboyOop\HangmanGame.cpp(141,63): warning C4244:         ]
+  Generating Code...
+  GameboyOop.vcxproj -> C:\Users\hkals\source\repos\GameboyOop\x64\Debug\GameboyOop.exe
